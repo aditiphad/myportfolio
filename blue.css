@@ -1,0 +1,52 @@
+.aside .logo a::before{
+    border-top: 4px solid #2196F3;
+    border-left: 4px solid #2196F3;
+}
+.aside .logo a::after{
+    border-right: 4px solid #2196F3;
+    border-bottom: 4px solid #2196F3;
+}
+.portfolio .portfolio-item .portfolio-info .icon .fa,
+.portfolio .portfolio-filter button.active,
+.about .about-content .about-text h3 span,
+body.dark .aside .nav a:hover,
+body.dark .aside .nav li a.active,
+.aside .nav a:hover,
+.aside .nav a.active{
+    color: #2196F3;
+}
+.about .about-content .timeline .circle-dot,
+.about .about-content .timeline .timeline-item::before,
+.about .about-content .skills .skill-item .progress .progress-in,
+.btn,
+.section-title h2::before,
+.section-title h2::after,
+.aside .nav-toggler span,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after,
+.home .intro .social-link a {
+    background-color: #2196F3;
+}
+.portfolio .portfolio-filter button.active{
+    border-color: #2196F3;
+}
+.contact .contact-info-item .icon .fa{
+    font-size: 40px;
+    height: 95px;
+    width: 95px;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 50%;
+    padding: 25px;
+    background: transparent;
+}
+.contact .contact-info-item .icon .fa{
+    
+    color: #2196f3;
+    background: transparent;
+}
+.contact .contact-info-item .icon .fa:hover{
+    background-color: #2196f3;
+    color: white;
+    
+}
